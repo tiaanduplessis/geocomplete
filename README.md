@@ -1,17 +1,11 @@
-# $.geocomplete() - Version 1.7.0
-## jQuery Geocoding and Places Autocomplete Plugin
+# jquery-geocomplete
+
+> jQuery Geocoding and Places Autocomplete Plugin. Actively maintained [fork](https://github.com/ubilabs/geocomplete)
 
 An advanced jQuery plugin that wraps the Google Maps API's [Geocoding](https://code.google.com/apis/maps/documentation/javascript/geocoding.html) and [Places Autocomplete](https://code.google.com/apis/maps/documentation/javascript/places.html#places_autocomplete) services. You simply provide an input that lets you search for locations with a nice autocomplete dropdown. Optionally add a container to show an interactive map and a form that will be populated with the address details.
 
 View the [annotated source](http://ubilabs.github.com/geocomplete/docs/).
 
-## ⚠️ NOT MAINTAINED
-
-_Please note:_ **This project is not maintained anymore. We do not use jQuery in production and switched to React about two years ago. Feel free to discuss issues here but please do not expect new features or changes in the default behavior.**
-
-For a new and way more flexible solution, see our [React Geosuggest](http://ubilabs.github.io/react-geosuggest/) plugin.
-
-If you would like to take over the project, please let us know! There are many people out there who would be happy to have new supporters.
 
 ## Basic Usage
 
@@ -210,4 +204,8 @@ More information can be found here: https://developers.google.com/maps/documenta
 
 ## About
 
-Developed by [Martin Kleppe](http://twitter.com/aemkei) at [Ubilabs](http://ubilabs.net).
+Developed by [Martin Kleppe](http://twitter.com/aemkei) at [Ubilabs](http://ubilabs.net). Now maintained by [Tiaan du Plessis](https://github.com/tiaanduplessis).
+
+## License
+
+MIT
